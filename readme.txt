@@ -1,0 +1,6 @@
+Read Me FileSign Cricket: Sign Cricket is a fun game that helps teach and test player’s knowledge of sign language. The game uses Tkinter and a Leap Motion to simulate an actual cricket game in which players must gesture the correct sign language symbol to score points. The game has a Learn Mode which teaches sign language along with a single player and two player mode. Other features of the game include user authentication, customizable players you can upgrade, and a leaderboard.The project can be run on any Python that supports Tkinter and Leap Motion. The game must be run on Python 2.7 to ensure compatibility with Leap Motion. All additional files and images are stored in the zip file.Leap SDK must be installed to run Leap Motion. I have attached the Leap SDK file in the zip file. Additional libraries and modules, I used are PIL and playsound.Shortcut Commands:Pressing the ‘o’ key during the Learn mode or Single player mode will lead to the wickets to increase by 1.Pressing the ‘s’ key during the Learn mode or Single player mode will lead to the score to increase by 5.
+
+Pressing the ‘t’ key during the Competitive mode will lead to the score to increase to the target and the game to progress to the next level.
+
+The username "Abhi" and the password "123" can be used to look at upgraded players as it has a highscore of 48
+
